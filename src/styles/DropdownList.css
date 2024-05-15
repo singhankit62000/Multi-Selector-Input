@@ -1,0 +1,16 @@
+.dropdownlist-container {
+    display: flex;
+    flex-direction: column;
+    top: 100%;
+    padding: 15px;
+    margin: 10px auto;
+    width: 53%;
+}
+
+.dropdownitem-name {
+    box-shadow: 3px 3px 10px 6px rgb(0, 0, 0, 0.1);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}

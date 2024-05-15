@@ -1,0 +1,6 @@
+.selected-item{
+    border: 0.2px solid brown; 
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px;
+}
